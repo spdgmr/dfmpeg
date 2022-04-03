@@ -53,7 +53,7 @@ cp ./dfmpeg /usr/bin # Copy the script to /usr/bin
 cp ./dfmpegrc ~/.config/dfmpeg/dfmpegrc # Copy the config to ~/.config/dfmpeg/dfmpegrc
 
 ### Patches
-- player // Add support for playing videos to dfmpeg [[Download]](https://raw.githubusercontent.com/speediegamer/dfmpeg/main/player-dfmpeg.diff)
+- player // Add support for playing videos to dfmpeg [[Download]](https://raw.githubusercontent.com/speediegamer/dfmpeg/main/patches/player-dfmpeg.diff)
 
 ## Credits
 - Me
