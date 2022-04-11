@@ -56,6 +56,7 @@ cp ./dfmpegrc ~/.config/dfmpeg/dfmpegrc # Copy the config to ~/.config/dfmpeg/df
 - player // Add support for playing videos to dfmpeg [[Download]](https://raw.githubusercontent.com/speediegamer/dfmpeg/main/patches/player-dfmpeg.diff)
 - no-dmenu // Add support for using dfmpeg using the terminal (no dmenu) [[Download]](https://raw.githubusercontent.com/speediegamer/dfmpeg/main/patches/nodmenu-dfmpeg.diff)
 - stop-on-run // Stop recording when dfmpeg is loaded if it is already recording [[Download]](https://raw.githubusercontent.com/speediegamer/dfmpeg/main/patches/dfmpeg-stop-on-run.diff)
+- playlast // This patch adds an option to play the last recorded video to dfmpeg [[Download]](https://raw.githubusercontent.com/speediegamer/dfmpeg/main/patches/dfmpeg-playlast.diff)
 
 ## Credits
 - Me
